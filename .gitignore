@@ -213,3 +213,8 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 /media/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/webempresa.iml
